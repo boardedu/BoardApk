@@ -1,2 +1,16 @@
 *.apk filter=lfs diff=lfs merge=lfs -text
 GMS/gg_install.apk filter=lfs diff=lfs merge=lfs -text
+adobeReader/com.adobe.reader_22.2.0.21450-1922221450.apk filter=lfs diff=lfs merge=lfs -text
+autodesk/com.autodesk.autocadws_5.4.0-1641457588.apk filter=lfs diff=lfs merge=lfs -text
+classdojo/com.classdojo.android_5.49.1-230054901.apk filter=lfs diff=lfs merge=lfs -text
+evernote/evernote-10-94-1.apk filter=lfs diff=lfs merge=lfs -text
+firefox/firefox_116.0.apk filter=lfs diff=lfs merge=lfs -text
+GeoGebra/GeoGebra%20Graphing%20Calculator_5.2.836.0_APKPure.apk filter=lfs diff=lfs merge=lfs -text
+GeoGeBraGeometry/geogebra-geometry-5-2-836-0.apk filter=lfs diff=lfs merge=lfs -text
+GeoGeBraScientific/geogebra-scientific-calculator-5-2-847-0.apk filter=lfs diff=lfs merge=lfs -text
+khankids/org.khankids.android_4.2.1-73.apk filter=lfs diff=lfs merge=lfs -text
+MicrosoftExcel/microsoft-excel-16-0-17425-20174.apk filter=lfs diff=lfs merge=lfs -text
+MicrosoftPPT/microsoft-powerpoint-16-0-17425-20174.apk filter=lfs diff=lfs merge=lfs -text
+MicrosoftWord/microsoft-word-16-0-17628-20074.apk filter=lfs diff=lfs merge=lfs -text
+reading/reading-eggs-v2-7-2plus79.apk filter=lfs diff=lfs merge=lfs -text
+tencentMM/com.tencent.mm_8.0.20-2080.apk filter=lfs diff=lfs merge=lfs -text
