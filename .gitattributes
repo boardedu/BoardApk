@@ -14,3 +14,4 @@ MicrosoftPPT/microsoft-powerpoint-16-0-17425-20174.apk filter=lfs diff=lfs merge
 MicrosoftWord/microsoft-word-16-0-17628-20074.apk filter=lfs diff=lfs merge=lfs -text
 reading/reading-eggs-v2-7-2plus79.apk filter=lfs diff=lfs merge=lfs -text
 tencentMM/com.tencent.mm_8.0.20-2080.apk filter=lfs diff=lfs merge=lfs -text
+dahua-custom-prod-18/dahua-custom-prod-18.apk filter=lfs diff=lfs merge=lfs -text
