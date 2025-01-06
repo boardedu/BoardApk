@@ -15,3 +15,4 @@ MicrosoftWord/microsoft-word-16-0-17628-20074.apk filter=lfs diff=lfs merge=lfs 
 reading/reading-eggs-v2-7-2plus79.apk filter=lfs diff=lfs merge=lfs -text
 tencentMM/com.tencent.mm_8.0.20-2080.apk filter=lfs diff=lfs merge=lfs -text
 dahua-custom-prod-18/dahua-custom-prod-18.apk filter=lfs diff=lfs merge=lfs -text
+WPS/test_wps_moffice_13.29.0_2052.apk filter=lfs diff=lfs merge=lfs -text
